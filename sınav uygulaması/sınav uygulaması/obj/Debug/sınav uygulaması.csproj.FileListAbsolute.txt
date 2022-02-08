@@ -1,0 +1,12 @@
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\bin\Debug\sınav uygulaması.exe.config
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\bin\Debug\sınav uygulaması.exe
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\bin\Debug\sınav uygulaması.pdb
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav uygulaması.csproj.AssemblyReference.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav_uygulaması.Form1.resources
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav_uygulaması.Properties.Resources.resources
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav uygulaması.csproj.GenerateResource.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav uygulaması.exe
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav uygulaması.pdb
+C:\Users\eeisc\Desktop\c#\uygulamalar\sınav uygulaması\sınav uygulaması\obj\Debug\sınav_uygulaması.Form2.resources
